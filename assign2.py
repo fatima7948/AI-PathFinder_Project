@@ -4,7 +4,6 @@ import random
 import heapq
 import time
 import math
-
 class PathfinderApp:
     def __init__(self, root):
         self.root = root
@@ -260,4 +259,5 @@ class PathfinderApp:
 if __name__ == "__main__":
     root = tk.Tk()
     app = PathfinderApp(root)
+
     root.mainloop()
