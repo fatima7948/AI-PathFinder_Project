@@ -261,3 +261,4 @@ if __name__ == "__main__":
     app = PathfinderApp(root)
 
     root.mainloop()
+
